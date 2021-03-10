@@ -1,0 +1,52 @@
+,state_name,state_fips,state_abbr
+0,Alabama,1,NC
+1,Alaska,2,NC
+2,Arizona,4,NC
+3,Arkansas,5,NC
+4,California,6,NC
+5,Colorado,8,NC
+6,Connecticut,9,NC
+7,Delaware,10,NC
+8,District of Columbia,11,NC
+9,Florida,12,NC
+10,Georgia,13,NC
+11,Hawaii,15,NC
+12,Idaho,16,NC
+13,Illinois,17,NC
+14,Indiana,18,NC
+15,Iowa,19,NC
+16,Kansas,20,NC
+17,Kentucky,21,NC
+18,Louisiana,22,NC
+19,Maine,23,NC
+20,Maryland,24,NC
+21,Massachusetts,25,NC
+22,Michigan,26,NC
+23,Minnesota,27,NC
+24,Mississippi,28,NC
+25,Missouri,29,NC
+26,Montana,30,NC
+27,Nebraska,31,NC
+28,Nevada,32,NC
+29,New Hampshire,33,NC
+30,New Jersey,34,NC
+31,New Mexico,35,NC
+32,New York,36,NC
+33,North Carolina,37,NC
+34,North Dakota,38,NC
+35,Ohio,39,NC
+36,Oklahoma,40,NC
+37,Oregon,41,NC
+38,Pennsylvania,42,NC
+39,Rhode Island,44,NC
+40,South Carolina,45,NC
+41,South Dakota,46,NC
+42,Tennessee,47,NC
+43,Texas,48,NC
+44,Utah,49,NC
+45,Vermont,50,NC
+46,Virginia,51,NC
+47,Washington,53,NC
+48,West Virginia,54,NC
+49,Wisconsin,55,NC
+50,Wyoming,56,NC
